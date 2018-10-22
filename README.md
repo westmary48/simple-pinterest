@@ -1,2 +1,2 @@
 # simple-pinterest
-Code Along lecture for promises
+In-class code along lecture for promises
